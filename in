@@ -1,0 +1,14 @@
+KAWAMA/
+│
+├── index.html
+├── products.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   ├── 001.png
+│   ├── 002.png
+│   ├── ...
+│   └── ทุกภาพจากไฟล์
+└── assets/
